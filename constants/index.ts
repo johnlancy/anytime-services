@@ -61,8 +61,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
 	title: 'Contact Us',
 	links: [
-		{ key: 'admin_email', label: 'Admin Email', value: 'scottedsall@gmail.com' },
-		{ key: 'phone', label: 'Phone', value: '123-456-7890' },
+		{ key: 'admin_email', label: 'Owner Email', value: 'scottedsall@gmail.com' },
+		{ key: 'phone', label: 'Phone', value: '240-439-7573' },
 	],
 };
 
